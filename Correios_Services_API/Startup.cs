@@ -22,7 +22,6 @@ namespace Correios_Services_API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
-            //services.AddScoped<ICorreiosService, CorreiosService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

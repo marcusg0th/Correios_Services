@@ -8,7 +8,9 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddScoped<ICorreiosService, CorreiosService>(); 
+
+//.net 6+ - usando singleton no lugar de AddTransient/AddScoped
+builder.Services.AddSingleton<ICorreiosService, CorreiosService>(); 
 
 var app = builder.Build();
 

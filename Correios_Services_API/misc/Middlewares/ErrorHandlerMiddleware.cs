@@ -11,6 +11,7 @@ namespace Correios_Services_API.Middlewares
     {
         private readonly RequestDelegate _next;
 
+        //implementação do retorno de codigo de erro está incompleta/não funcional ainda
         public ErrorHandlerMiddleware(RequestDelegate next)
         {
             _next = next;

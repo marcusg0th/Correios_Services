@@ -11,8 +11,6 @@ C:\Users\Pichau\source\repos\Correios_Services\Correios_Services_API\bin\Debug\n
 C:\Users\Pichau\source\repos\Correios_Services\Correios_Services_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Pichau\source\repos\Correios_Services\Correios_Services_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Pichau\source\repos\Correios_Services\Correios_Services_API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Pichau\source\repos\Correios_Services\Correios_Services_API\bin\Debug\net6.0\Correios_Services.dll
-C:\Users\Pichau\source\repos\Correios_Services\Correios_Services_API\bin\Debug\net6.0\Correios_Services.pdb
 C:\Users\Pichau\source\repos\Correios_Services\Correios_Services_API\obj\Debug\net6.0\Correios_Services_API.csproj.AssemblyReference.cache
 C:\Users\Pichau\source\repos\Correios_Services\Correios_Services_API\obj\Debug\net6.0\Correios_Services_API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Pichau\source\repos\Correios_Services\Correios_Services_API\obj\Debug\net6.0\Correios_Services_API.AssemblyInfoInputs.cache
