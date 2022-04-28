@@ -1,0 +1,13 @@
+C:\Users\Pichau\source\repos\Correios_Services\Correios_Services\bin\Debug\net6.0\Correios_Services.deps.json
+C:\Users\Pichau\source\repos\Correios_Services\Correios_Services\bin\Debug\net6.0\Correios_Services.dll
+C:\Users\Pichau\source\repos\Correios_Services\Correios_Services\bin\Debug\net6.0\Correios_Services.pdb
+C:\Users\Pichau\source\repos\Correios_Services\Correios_Services\obj\Debug\net6.0\Correios_Services.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\Correios_Services\Correios_Services\obj\Debug\net6.0\Correios_Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\Correios_Services\Correios_Services\obj\Debug\net6.0\Correios_Services.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\Correios_Services\Correios_Services\obj\Debug\net6.0\Correios_Services.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\Correios_Services\Correios_Services\obj\Debug\net6.0\Correios_Services.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\Correios_Services\Correios_Services\obj\Debug\net6.0\Correios_Services.sourcelink.json
+C:\Users\Pichau\source\repos\Correios_Services\Correios_Services\obj\Debug\net6.0\Correios_Services.dll
+C:\Users\Pichau\source\repos\Correios_Services\Correios_Services\obj\Debug\net6.0\refint\Correios_Services.dll
+C:\Users\Pichau\source\repos\Correios_Services\Correios_Services\obj\Debug\net6.0\Correios_Services.pdb
+C:\Users\Pichau\source\repos\Correios_Services\Correios_Services\obj\Debug\net6.0\ref\Correios_Services.dll
